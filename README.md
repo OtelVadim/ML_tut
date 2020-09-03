@@ -1,4 +1,4 @@
-# Tutorial repo
+# Regression Tutorial repo
 
 In this repository I practiced regressions from "Shukla, et al., “Machine Learning Algorithms For Beginners with Code Examples in Python”, Towards AI, 2020"
 
